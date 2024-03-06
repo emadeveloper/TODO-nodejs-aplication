@@ -13,11 +13,9 @@ Para utilizar esta aplicación, asegúrate de tener Node.js instalado en tu sist
 
 1. Clona este repositorio en tu máquina local:
 
-git clone
+git clone https://github.com/emadeveloper/TODO-nodejs-aplication.git
 
-2. Navega al directorio del proyecto:
-
-cd
+2. Navega al directorio del proyecto
 
 3. Instala las dependencias utilizando npm:
 
